@@ -1,0 +1,3 @@
+sqlcmd -S n001cdgdbp00401.cixicnq4vn0v.eu-west-1.rds.amazonaws.com -U almadmin -P qwerty123
+sqlcmd -S n001cdgdbp00400.cixicnq4vn0v.eu-west-1.rds.amazonaws.com -U almadmin -P qwerty321
+
